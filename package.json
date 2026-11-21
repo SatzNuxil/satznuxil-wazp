@@ -1,5 +1,5 @@
 {
-  "name": "@satznuxil-wabail",
+    "name": "@poucode/baileys",
   "type": "module",
   "version": "2.0.1",
   "description": "WaBail — SatzNuxil fork of Baileys: WhatsApp Web WebSocket library with merged extra socket layers (privacy, interop, GraphQL, message builder), sticker packs and SQLite auth state",
