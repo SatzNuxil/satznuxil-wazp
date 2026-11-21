@@ -1,10 +1,10 @@
 {
-  "name": "@poucode/baileys",
+  "name": "@satznuxil-wabail",
   "type": "module",
   "version": "2.0.1",
-  "description": "WaBail — PouCode fork of Baileys: WhatsApp Web WebSocket library with merged extra socket layers (privacy, interop, GraphQL, message builder), sticker packs and SQLite auth state",
+  "description": "WaBail — SatzNuxil fork of Baileys: WhatsApp Web WebSocket library with merged extra socket layers (privacy, interop, GraphQL, message builder), sticker packs and SQLite auth state",
   "keywords": [
-    "poucode",
+    "SatzNuxil",
     "baileys",
     "whatsapp",
     "whatsapp-api",
@@ -14,13 +14,13 @@
     "wabail",
     "whatsapp-bot"
   ],
-  "homepage": "https://github.com/NazCodexID/NxBaileys",
+  "homepage": "https://github.com/SatzNuxil/satznuxil-wazp",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NazCodexID/NxBaileys.git"
+    "url": "git+https://github.com/SatzNuxil/satznuxil-wazp.git"
   },
   "license": "MIT",
-  "author": "PouCode",
+  "author": "SatzNuxil",
   "main": "lib/index.js",
   "files": [
     "lib/**/*",
@@ -150,7 +150,7 @@
     "node": ">=20.0.0"
   },
   "bugs": {
-    "url": "https://github.com/NazCodexID/NxBaileys/issues"
+    "url": "https://github.com/SatzNuxil/satznuxil-wazp/issues"
   },
   "contributors": [
     "WhiskeySockets (original Baileys authors)"
